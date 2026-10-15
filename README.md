@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=9370DB&center=true&vCenter=true&width=650&lines=Computer+Science+Student;AI+%26+Algorithm+Enthusiast;DeFi+%26+Fintech+Explorer;Trading+%26+Crypto+Lover;Reader+%7C+Gamer+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=9370DB&center=true&vCenter=true&width=650&lines=%3E+Computer+Science+Student_;%3E+AI+%26+Algorithm+Enthusiast_;%3E+DeFi+%26+Fintech+Explorer_;%3E+Trading+%26+Crypto+Lover_;%3E+Reader+%7C+Gamer+%7C+Builder_" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,21 +12,47 @@
 [![Followers](https://img.shields.io/github/followers/DreyDreamer17?label=Followers&style=for-the-badge&color=9370DB&logo=github)](https://github.com/DreyDreamer17?tab=followers)
 ![Status](https://img.shields.io/badge/Status-Open_to_Collaborate-9370DB?style=for-the-badge)
 
-**[ About ](#-about-me) • [ Tech Stack ](#-tech-arsenal) • [ Current Focus ](#-current-missions) • [ Stats ](#-github-analytics) • [ Connect ](#-lets-connect)**
+<code>cd</code>&nbsp;
+<a href="#-about-me">about/</a> → 
+<a href="#-tech-arsenal">stack/</a> → 
+<a href="#-current-missions">missions/</a> → 
+<a href="#-github-analytics">stats/</a> → 
+<a href="#-lets-connect">connect/</a>
 
 </div>
 
 ---
 
-## `$ whoami`
+<details>
+<summary>▶ <b><code>boot_sequence.log</code></b> — click to expand</summary>
+
+```bash
+guest@dreydreamer17:~$ ./initialize_portfolio.sh
+
+[ OK ]  Loading kernel modules...
+[ OK ]  Mounting /dev/creativity...
+[ OK ]  Starting ai_engine.service
+[ OK ]  Starting defi_node.service
+[ OK ]  Starting trading_bot.service
+[ OK ]  Indexing ~/books and ~/games
+[DONE]  System ready. Welcome, guest.
+```
+
+</details>
+
+## `$` whoami
+
+```python
+guest@dreydreamer17:~$ python3 whoami.py
+```
 
 ```python
 class DreyDreamer17:
     def __init__(self):
-        self.role = "Computer Science Student"
-        self.focus = ["AI", "Algorithms", "DeFi", "Fintech"]
-        self.languages = ["Python", "JavaScript", "Java", "C++"]
-        self.mindset = "Build systems that create freedom"
+        self.role     = "Computer Science Student"
+        self.focus    = ["AI", "Algorithms", "DeFi", "Fintech"]
+        self.stack    = ["Python", "JavaScript", "Java", "C++"]
+        self.mindset  = "Build systems that create freedom"
 
     def solve(self, problem):
         return self.creativity + self.code + self.discipline
@@ -37,7 +63,14 @@ class DreyDreamer17:
 me = DreyDreamer17()
 ```
 
+```bash
+>>> me.current_mission()
+'Building the future, one algorithm at a time.'
+```
+
 ## 🧠 About Me
+
+> `guest@dreydreamer17:~$ cat about_me.md`
 
 <table>
 <tr>
@@ -64,68 +97,72 @@ I believe code can reshape financial systems, automate opportunity, and build a 
 </tr>
 </table>
 
-## 🎯 What Drives Me
+## 📁 What Drives Me
 
-<table align="center">
-<tr>
-<td align="center" width="33%"><h3>🤖 AI</h3>Machine learning models<br/>that think & predict</td>
-<td align="center" width="33%"><h3>📊 Trading</h3>Data, patterns &<br/>market psychology</td>
-<td align="center" width="33%"><h3>🏦 DeFi</h3>Decentralized systems<br/>without gatekeepers</td>
-</tr>
-<tr>
-<td align="center"><h3>⚡ Algorithms</h3>Turning complex problems<br/>into elegant solutions</td>
-<td align="center"><h3>🎮 Gaming</h3>Strategy, systems &<br/>competitive thinking</td>
-<td align="center"><h3>📚 Reading</h3>Books that rewire<br/>how I see the world</td>
-</tr>
-</table>
+```bash
+guest@dreydreamer17:~$ ls -la ~/interests
+
+total 6
+drwxr-xr-x  2 drey builder  4096 Today  ai-machine-learning/     # models that think & predict
+drwxr-xr-x  2 drey builder  4096 Today  trading-and-markets/     # data, patterns, psychology
+drwxr-xr-x  2 drey builder  4096 Today  defi-and-blockchain/     # decentralized, no gatekeepers
+drwxr-xr-x  2 drey builder  4096 Today  algorithms-and-dsa/      # elegant solutions only
+drwxr-xr-x  2 drey builder  4096 Today  gaming-and-strategy/     # competitive systems thinking
+drwxr-xr-x  2 drey builder  4096 Today  reading-and-books/       # rewiring perspective daily
+```
 
 ## 🛠️ Tech Arsenal
+
+> `guest@dreydreamer17:~$ cat tech_stack.yml`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,cpp,tensorflow,pytorch,git,github,docker,vscode,solidity,linux&perline=6" />
 </div>
 
-### Languages
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### AI / ML & Data
+**AI / ML & Data**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Blockchain & Web3
+**Blockchain & Web3**
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-### Tools
+**Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🚀 Current Missions
 
-| Mission | Status |
-| :--- | :---: |
-| 🔭 Building DeFi protocols & smart contracts | `IN PROGRESS` |
-| 🌱 Mastering advanced Machine Learning | `LEARNING` |
-| 📈 Developing trading algorithms & market tools | `BUILDING` |
-| 🤝 Contributing to open-source FinTech | `OPEN` |
+```bash
+guest@dreydreamer17:~$ cat missions.log
 
-**Learning Roadmap**
-```
-Machine Learning   ██████████░░░░░░  65%
-DeFi / Solidity    ████████░░░░░░░░  50%
-Algo Trading       ███████████░░░░░  70%
-Algorithms / DSA   ████████████░░░░  75%
+[IN PROGRESS]  Building DeFi protocols & smart contracts
+[LEARNING]     Mastering advanced Machine Learning
+[BUILDING]     Developing trading algorithms & market tools
+[OPEN]         Contributing to open-source FinTech
+
+guest@dreydreamer17:~$ ./progress --skills
+
+Machine Learning    [██████████░░░░░░]  65%
+DeFi / Solidity     [████████░░░░░░░░]  50%
+Algo Trading        [███████████░░░░░]  70%
+Algorithms / DSA    [████████████░░░░]  75%
 ```
 
 ## 📊 GitHub Analytics
+
+> `guest@dreydreamer17:~$ ./fetch_analytics.sh --live`
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DreyDreamer17&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=9370DB&icon_color=9370DB&text_color=ffffff&bg_color=0D1117"/>
@@ -155,24 +192,48 @@ Algorithms / DSA   ████████████░░░░  75%
 
 ## 🎮 Beyond The Code
 
-```text
-📖 Reading novels      → New perspectives
-🎮 Gaming              → Strategy & systems thinking  
-📊 Chart analysis      → Pattern recognition
-🌐 Exploring Web3      → Finding what's next
+```bash
+guest@dreydreamer17:~$ cat weekend.log
+
+📖  Reading novels      → New perspectives
+🎮  Gaming              → Strategy & systems thinking
+📊  Chart analysis      → Pattern recognition
+🌐  Exploring Web3      → Finding what's next
 ```
 
 <details>
-<summary><b>⚡ More About Me</b></summary>
-<br/>
-I don't just want to write code — I want to build intelligent financial systems that give people more freedom, ownership, and opportunity. Every project is an experiment. Every algorithm is a step forward.
+<summary>📜 <b><code>$ man dreydreamer17</code></b></summary>
+
+```
+NAME
+    dreydreamer17 - builder of intelligent financial systems
+
+DESCRIPTION
+    Does not just write code. Builds systems that create freedom,
+    ownership, and opportunity. Treats every project as an
+    experiment, and every algorithm as a step forward.
+
+SEE ALSO
+    ai(1), defi(1), trading-bot(1), good-books(7)
+```
+
 </details>
 
 ## 🤝 Let's Connect
 
-<div align="center">
+```bash
+guest@dreydreamer17:~$ ping DreyDreamer17 --open-to collab
 
-I'm always down to collaborate on **AI, FinTech, DeFi, Trading Tools, or Open Source**.
+64 bytes from AI:         seq=0  time=0.1ms  status=interested
+64 bytes from FinTech:    seq=1  time=0.2ms  status=interested
+64 bytes from DeFi:       seq=2  time=0.1ms  status=interested
+64 bytes from OpenSource: seq=3  time=0.3ms  status=always-open
+
+--- DreyDreamer17 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss
+```
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DreyDreamer17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
@@ -182,6 +243,13 @@ I'm always down to collaborate on **AI, FinTech, DeFi, Trading Tools, or Open So
 </div>
 
 ---
+
+```bash
+guest@dreydreamer17:~$ logout
+
+[session ended]
+closing connection to dreydreamer17@github.com...
+```
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
