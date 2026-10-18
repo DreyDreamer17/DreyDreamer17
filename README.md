@@ -229,18 +229,6 @@ Algorithms / DSA    [████████████░░░░]  75%  · 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreyDreamer17&theme=dark&hide_border=true&layout=compact&langs_count=6&title_color=9370DB&text_color=ffffff&bg_color=0D1117"/>
 </div>
 
-**`$ netstat -i | grep contributions`**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreyDreamer17&bg_color=0D1117&color=9370DB&line=9370DB&point=ffffff&area=true&hide_border=true&custom_title=Network%20Traffic" width="95%"/>
-</div>
-
-**`$ sudo cat /var/log/achievements.log`**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DreyDreamer17&theme=radical&no-frame=true&margin-w=4&column=4" width="95%"/>
-</div>
-
 ## 🎮 Beyond The Code
 
 ```text
