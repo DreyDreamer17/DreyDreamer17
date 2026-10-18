@@ -241,15 +241,6 @@ Algorithms / DSA    [████████████░░░░]  75%  · 
   <img src="https://github-profile-trophy.vercel.app/?username=DreyDreamer17&theme=radical&no-frame=true&margin-w=4&column=4" width="95%"/>
 </div>
 
-<!-- Snake Animation - Setup: https://github.com/Platane/snk -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DreyDreamer17/DreyDreamer17/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DreyDreamer17/DreyDreamer17/output/github-contribution-grid-snake.svg">
-    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/DreyDreamer17/DreyDreamer17/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
 ## 🎮 Beyond The Code
 
 ```text
@@ -281,15 +272,11 @@ I'm always down to collaborate on **AI, FinTech, DeFi, Trading Tools, or Open So
 # open a channel. no gatekeepers. no warm intro needed.
 
 ./github   --intent "follow · star · collaborate"
-./linkedin --intent "cs · fintech · career"     # → YOUR_LINKEDIN
-./x        --intent "crypto · ai · buildlog"    # → YOUR_X_HANDLE
-./email    --intent "ideas · offers · hi"       # → YOUR_EMAIL
+./email    --intent "ideas · offers · hi"       # → weasleyisourking53@gmail.com
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DreyDreamer17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weasleyisourking53@gmail.com)
 
 </div>
 
